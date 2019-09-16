@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1026247306651",
+    "firebase_url": "https://dakkar-2.firebaseio.com",
+    "project_id": "dakkar-2",
+    "storage_bucket": "dakkar-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026247306651:android:0677c91812728347",
+        "android_client_info": {
+          "package_name": "io.kustrad.dakaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026247306651-7m7iq2u4at59252edaqvd7bm0jk5bhhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW3I4m3g9EVz9me12chI1lnno2fN_2jns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
